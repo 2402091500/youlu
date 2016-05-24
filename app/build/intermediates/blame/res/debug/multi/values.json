@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 90
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 258,
+                        "startOffset": 270,
                         "endColumn": 39,
-                        "endOffset": 293
+                        "endOffset": 305
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 138
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 194,
+                        "startOffset": 204,
                         "endColumn": 47,
-                        "endOffset": 237
+                        "endOffset": 247
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 178
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 314,
+                        "startOffset": 328,
                         "endColumn": 39,
-                        "endOffset": 349
+                        "endOffset": 363
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 236
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 89,
+                        "startOffset": 92,
                         "endColumn": 57,
-                        "endOffset": 142
+                        "endOffset": 145
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 292
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 147,
+                        "startOffset": 151,
                         "endColumn": 55,
-                        "endOffset": 198
+                        "endOffset": 202
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 342
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 203,
+                        "startOffset": 208,
                         "endColumn": 49,
-                        "endOffset": 248
+                        "endOffset": 253
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 460,
+                        "startOffset": 471,
                         "endColumn": 42,
-                        "endOffset": 498
+                        "endOffset": 509
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 428
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 417,
+                        "startOffset": 427,
                         "endColumn": 42,
-                        "endOffset": 455
+                        "endOffset": 465
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 470
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 375,
+                        "startOffset": 384,
                         "endColumn": 41,
-                        "endOffset": 412
+                        "endOffset": 421
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 510
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 335,
+                        "startOffset": 343,
                         "endColumn": 39,
-                        "endOffset": 370
+                        "endOffset": 378
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 554
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 253,
+                        "startOffset": 259,
                         "endColumn": 43,
-                        "endOffset": 292
+                        "endOffset": 298
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 596
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 146,
+                        "startOffset": 154,
                         "endColumn": 41,
-                        "endOffset": 183
+                        "endOffset": 191
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 639
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 101,
+                        "startOffset": 107,
                         "endColumn": 42,
-                        "endOffset": 139
+                        "endOffset": 145
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 680
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\color.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 58,
+                        "startOffset": 62,
                         "endColumn": 40,
-                        "endOffset": 94
+                        "endOffset": 98
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 727
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 97,
+                        "startOffset": 101,
                         "endColumn": 46,
-                        "endOffset": 139
+                        "endOffset": 143
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 768
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 40,
-                        "endOffset": 92
+                        "endOffset": 95
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 806
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 395,
+                        "startOffset": 405,
                         "endColumn": 37,
-                        "endOffset": 428
+                        "endOffset": 438
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 844
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 357,
+                        "startOffset": 366,
                         "endColumn": 37,
-                        "endOffset": 390
+                        "endOffset": 399
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 897
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 144,
+                        "startOffset": 149,
                         "endColumn": 52,
-                        "endOffset": 192
+                        "endOffset": 197
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 940
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 314,
+                        "startOffset": 322,
                         "endColumn": 42,
-                        "endOffset": 352
+                        "endOffset": 360
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 997
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 197,
+                        "startOffset": 203,
                         "endColumn": 56,
-                        "endOffset": 249
+                        "endOffset": 255
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 1057
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 254,
+                        "startOffset": 261,
                         "endColumn": 59,
-                        "endOffset": 309
+                        "endOffset": 316
                     }
                 }
             },
@@ -430,14 +430,14 @@
                     "endOffset": 1651
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\themes.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 645
+                        "endOffset": 657
                     }
                 }
             },
@@ -451,14 +451,14 @@
                     "endOffset": 1893
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 965,
+                        "startOffset": 991,
                         "endLine": 29,
                         "endColumn": 12,
-                        "endOffset": 1202
+                        "endOffset": 1231
                     }
                 }
             },
@@ -472,14 +472,14 @@
                     "endOffset": 2184
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 186,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 472
+                        "endOffset": 484
                     }
                 }
             },
@@ -493,14 +493,14 @@
                     "endOffset": 2344
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 510,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 665
+                        "endOffset": 682
                     }
                 }
             },
@@ -514,14 +514,14 @@
                     "endOffset": 2634
                 },
                 "from": {
-                    "file": "G:\\youru\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "G:\\youlu\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 670,
+                        "startOffset": 688,
                         "endLine": 24,
                         "endColumn": 12,
-                        "endOffset": 955
+                        "endOffset": 979
                     }
                 }
             }

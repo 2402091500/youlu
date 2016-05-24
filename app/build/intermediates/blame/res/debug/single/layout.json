@@ -1,82 +1,86 @@
 [
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\you_msg_item.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\you_msg_item.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calllog.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\fragment_calllog.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact2.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\fragment_contact2.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact2.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\fragment_contact2.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_msg_item.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\lv_msg_item.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_title.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\base_title.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact3.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\fragment_contact3.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test2.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\activity_test2.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_calllog_item.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\lv_calllog_item.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_calllog_item.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\lv_calllog_item.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\gridview_item.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\activity_main1.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\list_item.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\me_msg_item.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\me_msg_item.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\activity_base.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\activity_test.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_detail.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\contact_detail.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\activity_animation.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\list_item.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\fragment_contact.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionsheet.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\actionsheet.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact1.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\fragment_contact1.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact1.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\fragment_contact1.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\activity_animation.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send_msg.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\activity_send_msg.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send_msg.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\activity_send_msg.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_calllog.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\fragment_calllog.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact3.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\fragment_contact3.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\activity_main1.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_detail.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\contact_detail.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionsheet.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\actionsheet.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_msg_item.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\lv_msg_item.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_title.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\base_title.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\you_msg_item.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\you_msg_item.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\activity_test.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\gridview_item.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\layout\\me_msg_item.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\layout\\me_msg_item.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\layout\\fragment_contact.xml"
     }
 ]

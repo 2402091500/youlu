@@ -4,29 +4,58 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="19453931000237" >
+    timestamp="27677842840242" >
 
     <task
         name="javac"
-        duration="371" />
+        duration="305" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="127" />
+        duration="25" />
     <task
         name="verifier"
-        duration="42" />
+        duration="4" />
 
     <artifact
-        location="G:\youru\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="G:\youlu\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
 
-    <build timestamp="19453931000237" >
+    <build timestamp="27082695584628" >
         <artifact
-            location="G:\youru\app\build\outputs\apk\app-debug.apk"
+            location="G:\youlu\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="27677842840242" >
+        <artifact
+            location="G:\youlu\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

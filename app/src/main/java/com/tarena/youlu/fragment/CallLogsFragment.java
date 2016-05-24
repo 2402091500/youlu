@@ -5,6 +5,7 @@ import java.util.List;
 
 import com.example.biz.CallLogsBiz;
 import com.example.entity.CallLogs;
+import com.example.ui.myAnimation;
 import com.example.youlu.R;
 import com.tarena.youlu.adapter.CallLogsListViewAdapter;
 
@@ -22,15 +23,15 @@ import android.widget.ListView;
 public class CallLogsFragment extends BaseFragment{
 	
 	private ListView lvCallLogs;
-	private List<CallLogs> logs;
 	private CallLogsListViewAdapter adapter;
+	private List<CallLogs> log;
 
 	/*@Override
 	public View onCreateView(LayoutInflater inflater,
 			ViewGroup container,
 			Bundle savedInstanceState) {
 		View view=inflater.inflate(R.layout.fragment_calllog, null);
-		//»ñÈ¡¼¯ºÏ
+		//ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½
 		List<CallLogs> logs=new CallLogsBiz(getActivity()).loadCallLogs();
 
 //		System.out.println("--------"+logs);
@@ -55,16 +56,22 @@ public class CallLogsFragment extends BaseFragment{
 	@Override
 	protected void initData() {
 
-		//»ñÈ¡¼¯ºÏ
-		 logs=new CallLogsBiz(getActivity()).loadCallLogs();
+		//ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½
+		 log= myAnimation.logs;
 
-		 adapter=new CallLogsListViewAdapter(getActivity(), logs);
+		 adapter=new CallLogsListViewAdapter(getActivity(), log);
 		lvCallLogs.setAdapter(adapter);
 	}
 
 	@Override
 	protected void showDate() {
-		 adapter=new CallLogsListViewAdapter(getActivity(), logs);
+		if(adapter==null){
+
+		 adapter=new CallLogsListViewAdapter(getActivity(), log);
 		lvCallLogs.setAdapter(adapter);
+		}else{
+		lvCallLogs.setAdapter(adapter);
+
+		}
 	}
 }

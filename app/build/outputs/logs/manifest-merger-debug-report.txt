@@ -1,133 +1,141 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:2:1-61:12
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:2:1-64:12
 	package
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:3:5-32
-		INJECTED from G:\youru\app\src\main\AndroidManifest.xml
-		INJECTED from G:\youru\app\src\main\AndroidManifest.xml
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from G:\youlu\app\src\main\AndroidManifest.xml
+		INJECTED from G:\youlu\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from G:\youru\app\src\main\AndroidManifest.xml
-		INJECTED from G:\youru\app\src\main\AndroidManifest.xml
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\youlu\app\src\main\AndroidManifest.xml
+		INJECTED from G:\youlu\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from G:\youru\app\src\main\AndroidManifest.xml
-		INJECTED from G:\youru\app\src\main\AndroidManifest.xml
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\youlu\app\src\main\AndroidManifest.xml
+		INJECTED from G:\youlu\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:22.0.0] G:\youru\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] G:\youlu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from G:\youru\app\src\main\AndroidManifest.xml
-		INJECTED from G:\youru\app\src\main\AndroidManifest.xml
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\youlu\app\src\main\AndroidManifest.xml
+		INJECTED from G:\youlu\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from G:\youru\app\src\main\AndroidManifest.xml
-		INJECTED from G:\youru\app\src\main\AndroidManifest.xml
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from G:\youlu\app\src\main\AndroidManifest.xml
+		INJECTED from G:\youlu\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.READ_CONTACTS
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:11:5-72
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:13:5-72
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:11:22-69
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:13:22-69
 uses-permission#android.permission.WRITE_CONTACTS
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:12:5-73
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:14:5-73
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:12:22-70
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:14:22-70
 uses-permission#android.permission.READ_CALL_LOG
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:13:5-72
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:15:5-72
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:13:22-69
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:15:22-69
 uses-permission#android.permission.CALL_PHONE
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:14:5-69
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:16:5-69
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:14:22-66
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:16:22-66
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:15:5-75
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:17:5-75
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:15:22-72
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:17:22-72
 uses-permission#android.permission.PROCESS_OUTGOING_CALLS
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:16:5-81
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:16:22-78
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:18:22-78
 uses-permission#android.permission.READ_SMS
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:17:5-67
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:19:5-67
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:17:22-64
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:19:5-89
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:22:5-80
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:19:30-86
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:20:5-88
-	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:20:30-85
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:22:22-77
 application
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:22:5-59:19
-MERGED from [com.android.support:support-v4:22.0.0] G:\youru\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:24:5-62:19
+MERGED from [com.android.support:support-v4:22.0.0] G:\youlu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:25:9-41
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:27:9-41
 	android:allowBackup
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:23:9-35
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:25:9-35
 	android:icon
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:24:9-38
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:26:9-38
 	android:theme
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:26:9-62
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:28:9-62
 receiver#com.example.Receiver.CallReceiver
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:30:9-34:20
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:32:9-36:20
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:30:19-67
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:32:19-67
 intent-filter#android.intent.action.NEW_OUTGOING_CALL
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:31:13-33:29
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:33:13-35:29
 action#android.intent.action.NEW_OUTGOING_CALL
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:32:17-82
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:32:25-79
-activity#com.example.ui.myAnimation
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:36:9-39:48
-	android:label
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:39:13-45
-	android:icon
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:38:13-42
-	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:37:13-54
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:34:25-79
 activity#com.example.ui.MainActivity
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:40:9-51:20
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:38:9-41:48
 	android:label
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:44:13-61
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:41:13-45
+	android:icon
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:40:13-42
+	android:name
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:39:13-55
+activity#com.example.ui.myAnimation
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:42:9-53:20
+	android:label
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:46:13-61
 	android:allowBackup
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:42:13-40
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:44:13-40
 	android:icon
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:43:13-42
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:45:13-42
 	android:theme
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:45:13-66
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:47:13-66
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:41:13-55
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:43:13-54
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:46:13-50:29
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:48:13-52:29
 action#android.intent.action.MAIN
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:47:17-69
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:49:17-69
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:47:25-66
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:49:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:49:17-77
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:51:17-77
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:49:27-74
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:51:27-74
 activity#com.example.ui.SendMsg
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:52:9-56:80
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:54:9-58:80
 	android:label
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:55:13-60
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:57:13-60
 	android:icon
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:54:13-42
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:56:13-42
 	android:theme
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:56:13-77
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:58:13-77
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:53:13-50
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:55:13-50
 activity#com.example.base.BaseActivity
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:57:9-66
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:59:9-66
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:57:19-63
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:59:19-63
 activity#com.example.base.TestActivity
-ADDED from G:\youru\app\src\main\AndroidManifest.xml:58:9-75
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:60:9-66
 	android:name
-		ADDED from G:\youru\app\src\main\AndroidManifest.xml:58:19-63
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:60:19-63
+activity#com.test.TestActivity
+ADDED from G:\youlu\app\src\main\AndroidManifest.xml:61:9-67
+	android:name
+		ADDED from G:\youlu\app\src\main\AndroidManifest.xml:61:19-55

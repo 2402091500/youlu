@@ -26,6 +26,7 @@ import android.widget.TextView;
 
 import com.example.biz.ContactBiz;
 import com.example.entity.Contact;
+import com.example.ui.myAnimation;
 import com.example.youlu.R;
 import com.tarena.youlu.adapter.ContactGridViewAdapter;
 
@@ -70,12 +71,8 @@ public class ContactFragment1 extends BaseFragment{
 
 	@Override
 	protected void initData() {
-		cs=new ContactBiz(getActivity()).loadContacts();
-
-
-		 adapter=
-				new ContactGridViewAdapter(getActivity(), cs);
-
+		cs= myAnimation.cs;
+		 adapter=new ContactGridViewAdapter(getActivity(), cs);
 		gv.setAdapter(adapter);
 
 		setListener();
@@ -83,10 +80,14 @@ public class ContactFragment1 extends BaseFragment{
 
 	@Override
 	protected void showDate() {
-		adapter=
-				new ContactGridViewAdapter(getActivity(), cs);
+		if (adapter==null){
 
+		adapter=new ContactGridViewAdapter(getActivity(), cs);
 		gv.setAdapter(adapter);
+		}else{
+		gv.setAdapter(adapter);
+
+		}
 	}
 
 	private Bitmap getPhoto(int id){

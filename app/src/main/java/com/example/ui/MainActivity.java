@@ -19,6 +19,8 @@ import com.tarena.youlu.fragment.CallLogsFragment;
 import com.tarena.youlu.fragment.ContactFragment1;
 import com.tarena.youlu.fragment.Msg_Fragment2;
 
+import org.xutils.x;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -46,7 +48,7 @@ public class MainActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setActiviyContextView(R.layout.activity_main1);
         ButterKnife.bind(this);
-
+        x.Ext.init(getApplication());
 
         List<Fragment> fs = new ArrayList<Fragment>();
         fs.add(new CallLogsFragment());

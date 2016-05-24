@@ -1,22 +1,22 @@
 [
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bohao_ani.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\anim\\bohao_ani.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\anim\\translate.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\anim\\push_up_in.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate2.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\anim\\translate2.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\anim\\push_up_out.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bohao_ani.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\anim\\bohao_ani.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate2.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\anim\\translate2.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\anim\\push_up_in.xml"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
-        "source": "G:\\youru\\app\\src\\main\\res\\anim\\translate.xml"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\anim\\push_up_out.xml"
     }
 ]

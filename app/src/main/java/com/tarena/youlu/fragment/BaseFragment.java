@@ -24,7 +24,12 @@ public abstract class BaseFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         LogUtil.m("   " + this.getClass().getSimpleName());
+        if (convertView==null){
+
         convertView = inflater.inflate(getLayoutId(), container, false);
+        }else{
+            return convertView;
+        }
         mViews = new SparseArray<>();
         initView();
         isInitView = true;

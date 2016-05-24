@@ -2,6 +2,12 @@ package com.example.ui;
 
 
 
+import com.example.biz.CallLogsBiz;
+import com.example.biz.ContactBiz;
+import com.example.biz.MsgBiz;
+import com.example.entity.CallLogs;
+import com.example.entity.Contact;
+import com.example.entity.Msg;
 import com.example.listener.MyPhoneListener;
 import com.example.youlu.R;
 
@@ -16,17 +22,30 @@ import android.view.Menu;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
+import android.widget.RatingBar;
+
+import java.util.List;
 
 public class myAnimation extends Activity {
 
 	public ImageView im1;
+	public static List<CallLogs> logs;
+	public static List<Contact> cs;
+	public static List<Msg> msgs;
 	//private Handler handler;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_animation);
-		
+		new Thread(new Runnable() {
+			@Override
+			public void run() {
+				logs=new CallLogsBiz(myAnimation.this).loadCallLogs();
+				cs=new ContactBiz(myAnimation.this).loadContacts();
+				msgs=new MsgBiz(myAnimation.this).loadMsgs();
+			}
+		}).start();
 		new Handler().postDelayed(new Runnable() {
 			
 			@Override
@@ -41,11 +60,8 @@ public class myAnimation extends Activity {
 
 	}
 
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.animation, menu);
-		return true;
-	}
+
+
+
 
 }

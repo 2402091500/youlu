@@ -1,22 +1,26 @@
 [
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\baozou.jpg",
-        "source": "G:\\youru\\app\\src\\main\\res\\drawable-xhdpi\\baozou.jpg"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\baozou.jpg",
+        "source": "G:\\youlu\\app\\src\\main\\res\\drawable-xhdpi\\baozou.jpg"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "G:\\youru\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_app.jpg",
+        "source": "G:\\youlu\\app\\src\\main\\res\\drawable-xhdpi\\login_app.jpg"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
-        "source": "G:\\youru\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "G:\\youlu\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_add.png",
-        "source": "G:\\youru\\app\\src\\main\\res\\drawable-xhdpi\\my_add.png"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "G:\\youlu\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
     },
     {
-        "merged": "G:\\youru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fanhui.png",
-        "source": "G:\\youru\\app\\src\\main\\res\\drawable-xhdpi\\fanhui.png"
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_add.png",
+        "source": "G:\\youlu\\app\\src\\main\\res\\drawable-xhdpi\\my_add.png"
+    },
+    {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fanhui.png",
+        "source": "G:\\youlu\\app\\src\\main\\res\\drawable-xhdpi\\fanhui.png"
     }
 ]

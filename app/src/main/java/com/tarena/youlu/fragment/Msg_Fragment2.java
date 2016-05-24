@@ -10,6 +10,7 @@ import com.example.biz.MsgBiz;
 import com.example.entity.Contact;
 import com.example.entity.Msg;
 import com.example.ui.SendMsg;
+import com.example.ui.myAnimation;
 import com.example.youlu.R;
 import com.tarena.youlu.adapter.MsgListviewAdapter;
 
@@ -89,18 +90,21 @@ public class Msg_Fragment2 extends BaseFragment{
 
 	@Override
 	protected void initData() {
-		 mbBiz=new MsgBiz(getActivity());
-		list=mbBiz.loadMsgs();
-		ContactBiz cb=new ContactBiz(getActivity());
-		 cons=cb.loadContacts();
 
+		list= myAnimation.msgs;
 		 msgaAdapter=new MsgListviewAdapter(getActivity(), list);
 		msg_lv_listview.setAdapter(msgaAdapter);
 	}
 
 	@Override
 	protected void showDate() {
+		if (msgaAdapter==null){
 		msgaAdapter=new MsgListviewAdapter(getActivity(), list);
 		msg_lv_listview.setAdapter(msgaAdapter);
+
+		}else{
+		msg_lv_listview.setAdapter(msgaAdapter);
+
+		}
 	}
 }

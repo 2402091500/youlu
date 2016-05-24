@@ -30,6 +30,11 @@
             android:src="@drawable/img07_06"/>
         
     </LinearLayout>
+    <TextView
+        android:id="@+id/tv99"
+        android:layout_below="@id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
     <TableLayout
         android:id="@+id/tablelay"
@@ -171,7 +176,7 @@
                 />
         </TableRow>
         <TableRow 
-             android:id="@+id/tableRow4"
+             android:id="@+id/tableRow41"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
