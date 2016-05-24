@@ -4,6 +4,10 @@
         "source": "G:\\youlu\\app\\src\\main\\res\\drawable-xhdpi\\baozou.jpg"
     },
     {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img07_06.png",
+        "source": "G:\\youlu\\app\\src\\main\\res\\drawable-xhdpi\\img07_06.png"
+    },
+    {
         "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_app.jpg",
         "source": "G:\\youlu\\app\\src\\main\\res\\drawable-xhdpi\\login_app.jpg"
     },

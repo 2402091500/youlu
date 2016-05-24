@@ -4,35 +4,77 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="27677842840242" >
+    timestamp="29382584750601" >
 
     <task
         name="javac"
-        duration="305" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="25" />
+        duration="0" />
     <task
         name="verifier"
-        duration="4" />
+        duration="0" />
 
     <artifact
         location="G:\youlu\app\build\intermediates\res\resources-debug.ap_"
         type="RESOURCES" />
     <artifact
-        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b79a115910e78e0e19df25bb4ce9a36130e5dbe9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
         type="DEX" />
     <artifact
         location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
         type="DEX" />
     <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-3.1.22_448e4df2e992274709eaa3ce602198a528647edc\classes.dex"
+        type="DEX" />
+    <artifact
         location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
         type="DEX" />
     <artifact
-        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_f080e353de16e769495b2746b55479af41e9f7c8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_631aa5c86f25105ba30f684b8fd1773bbb5ccc5f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-views-1.0.0_38f67271eaac06e3bf46fa693e7bc12eea650157\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_b8a57aa75bd07c98d742a948374ac037ebe87b08\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_b02d5f0bbb77641e1684f83d7fa0b9acc540cbd4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.0_cdffcaeeececa2f5b7f8850f48173c48a03aff79\classes.dex"
         type="DEX" />
 
     <build timestamp="27082695584628" >
@@ -40,21 +82,63 @@
             location="G:\youlu\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="27677842840242" >
+    <build timestamp="29382584750601" >
         <artifact
             location="G:\youlu\app\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />
         <artifact
-            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b79a115910e78e0e19df25bb4ce9a36130e5dbe9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
             type="DEX" />
         <artifact
             location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
             type="DEX" />
         <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-3.1.22_448e4df2e992274709eaa3ce602198a528647edc\classes.dex"
+            type="DEX" />
+        <artifact
             location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
             type="DEX" />
         <artifact
-            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_f080e353de16e769495b2746b55479af41e9f7c8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_631aa5c86f25105ba30f684b8fd1773bbb5ccc5f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-views-1.0.0_38f67271eaac06e3bf46fa693e7bc12eea650157\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_b8a57aa75bd07c98d742a948374ac037ebe87b08\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_b02d5f0bbb77641e1684f83d7fa0b9acc540cbd4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\youlu\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.0_cdffcaeeececa2f5b7f8850f48173c48a03aff79\classes.dex"
             type="DEX" />
     </build>
 
