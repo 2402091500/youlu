@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_up_in.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_up_out.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\release\\anim\\bohao_ani.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\anim\\bohao_ani.xml"
+    },
+    {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\release\\anim\\translate.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\release\\anim\\translate2.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\anim\\translate2.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\release\\menu\\animation.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\menu\\animation.xml"
+    },
+    {
+        "merged": "G:\\youlu\\app\\build\\intermediates\\res\\merged\\release\\menu\\send_msg.xml",
+        "source": "G:\\youlu\\app\\src\\main\\res\\menu\\send_msg.xml"
+    }
+]
